@@ -3,6 +3,14 @@
 ![Project Status](https://img.shields.io/badge/Status-Design_Phase-orange)
 ![Tools](https://img.shields.io/badge/Tools-Fusion_360%20%7C%203D_Scanning%20%7C%20MayCAD-blue)
 
+---
+
+## 📖 Project Resources
+I am maintaining a central log of all research, manuals, and inspiration used for this project:
+- **[View the Research & Resources Log](RESEARCH_LOG.md)**
+
+---
+
 ## Project Overview
 The **MCV (Mobile Makerspace Van)** is a specialized interior conversion designed for **Chaihuo Maker Space / Seeed Studio**. The goal of this project is to transform a **Geely Farizon Super Van** into a fully functional, mobile hardware laboratory and teaching space.
 
@@ -30,7 +38,6 @@ Using the aluminum frame as the master reference, I developed the complete digit
   - **3D Printing:** Bambu Lab A1 mini and a P2S 3D Printer.
   - **CNC:** Makera Z1 CNC.
   - **Laser:** xTool Laser Cutter
-
 ---
 
 ### Software Handover
