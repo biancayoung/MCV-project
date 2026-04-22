@@ -1,4 +1,4 @@
-# Phase 1: Research, Introduction, and Initial Assessment
+# Stage_1: Research, Introduction, and Initial Assessment
 
 ## Getting Started
 To begin this project, I first focused on getting acquainted with the work already completed and defining the project's long-term goals. 
