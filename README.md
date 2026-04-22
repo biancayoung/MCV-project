@@ -6,8 +6,11 @@
 ---
 
 ## 📖 Project Resources
-I am maintaining a central log of all research, manuals, and inspiration used for this project:
-- **[View the Research & Resources Log](RESEARCH_LOG.md)**
+- **[View the Project Timeline](TIMELINE.md)**
+- **[Stage 1: Initial Assessment](process/STAGE_1.md)**
+- **[Stage 2: Digital Design Process](process/STAGE_2.md)**
+- **[Research & Resources Log](RESEARCH_LOG.md)**
+
 
 ---
 
