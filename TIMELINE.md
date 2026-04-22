@@ -41,3 +41,7 @@ On the 21st, we moved the frames into the van and secured them to the chassis. B
 
 ### April 22nd: Inauguration & Departure
 The project reached its climax at 10:00 AM on April 22nd with the official inauguration and live demos. After a public expo showcase and a symbolic departure ceremony in the afternoon, the van officially set off on its journey. It was a proud moment to see a bare shell transformed into a functional mobile lab in exactly 20 days.
+---
+**Project Navigation:**  
+[Timeline](TIMELINE.md) | [Stage 1: Assessment](STAGE_1_ASSESSMENT.md) | [Stage 2: Design](STAGE_2.md) | [Resources](RESEARCH_LOG.md)
+
