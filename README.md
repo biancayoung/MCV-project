@@ -12,7 +12,7 @@
 ---
 
 **Project Navigation:**  
-[Index page](INDEX.md) | [Resources](RESEARCH_LOG.md)
+[Index page](INDEX.md) 
 
 ---
 
