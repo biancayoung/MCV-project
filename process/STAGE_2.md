@@ -1,3 +1,4 @@
+[Index](INDEX.md) | [Resources](RESEARCH_LOG.md)
 # Stage 2: Digital Design & Technical Implementation
 
 Following the initial inspection and research phase, the priority shifted to creating a precise digital twin of the van. The main constraint was time, with only 20 days to move from a bare shell to a finished mobile lab. Since the van was undergoing registration and could not be physically modified, every design decision had to be finalized in software before a single piece of aluminum was cut.
