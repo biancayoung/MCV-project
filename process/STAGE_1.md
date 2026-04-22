@@ -1,5 +1,8 @@
 # Stage 1: Research, Introduction, and Initial Assessment
 
+**Project Navigation:**  
+[Index page](INDEX.md) | [Resources](RESEARCH_LOG.md)
+---
 ## Getting Started
 To begin this project, I first focused on getting acquainted with the work already completed and defining the project's long-term goals. It is important to note that while the broader MCV project involves a much larger team, the interior design of the van was a direct collaboration between 冯老师 (Feng Lei) and myself. The physical assembly was later carried out by the three of us (冯老师, Spencer Yan, and myself). At the start of this phase, neither of us had prior experience converting a van or building a mobile makerspace; we were figuring it out as we went.
 
