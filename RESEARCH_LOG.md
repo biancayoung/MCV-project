@@ -1,3 +1,8 @@
+
+**Project Navigation:**  
+[Index page](INDEX.md)
+--
+
 # Research & Resources Log
 
 This file contains all the websites, concept references, van renovation documentation I compoiled to help with this project.
