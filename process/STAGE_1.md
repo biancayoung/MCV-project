@@ -42,4 +42,4 @@ The van interior features non-linear walls and structural ribs. Precise digital 
 ---
 
 ## ⏭ Next Steps
-The research conducted in this phase led directly to the creation of the [Research & Resources Log](RESEARCH_LOG.md), which tracks the specific engineering guides I used to build the next iteration of the frame. Once the physical assessment was complete, we transitioned into the [Stage 2: Digital Design](STAGE_2_HANDS_ON.md) phase.
+The research conducted in this phase led directly to the creation of the [Research & Resources Log](RESEARCH_LOG.md), which tracks the specific engineering guides I used to build the next iteration of the frame. Once the physical assessment was complete, we transitioned into the [Stage 2: Digital Design](STAGE_2.md) phase.
