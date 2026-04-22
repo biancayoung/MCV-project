@@ -7,10 +7,12 @@
 
 ## 📖 Project Resources
 - **[View the Project Timeline](TIMELINE.md)**
-- **[Stage 1: Initial Assessment](process/STAGE_1.md)**
-- **[Stage 2: Digital Design Process](process/STAGE_2.md)**
 - **[Research & Resources Log](RESEARCH_LOG.md)**
 
+---
+
+**Project Navigation:**  
+[Index page](INDEX.md) | [Resources](RESEARCH_LOG.md)
 
 ---
 
