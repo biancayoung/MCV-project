@@ -32,17 +32,17 @@ This repository serves as a detailed log of my first-ever van conversion and lar
 
 ### 1. Structural Framework (Aluminum Design)
 The core "skeleton" of the interior was co-designed and engineered by **冯磊 (Feng Lei)** on **MayCAD**. 
-- **Remake & Integration:** I took the initial MayCAD design and remade it into a native **Autodesk Fusion 360** assembly. This was a critical step to allow for the design of complex wood joinery and integrated component housing that the aluminum-specific software couldn't handle.
+- **Remake & Integration:** I took the initial MayCAD design and remade it into a native **Autodesk Fusion 360** assembly. This was a critical step to allow for the design of the wood cabinets, shelfs and integrated component housing that the aluminum-specific software couldn't handle.
 - **Focus:** Developing a modular 30/30 extruded aluminum frame that attaches securely to the van's chassis.
 
 ### 2. Digital Twin & Component Design (Fusion 360)
 Using the aluminum frame as the master reference, I developed the complete digital model in Fusion 360.
-- **Contextual Design:** To ensure precision, I worked with **3D scans** of the van provided by 冯磊. These were imported as two distinct mesh bodies (interior and chassis points) to guide the inteior design.
+- **Contextual Design:** To help me visualize the layout of everything, I worked with **3D scans** of the van provided by 冯磊. These were imported as two distinct mesh bodies (interior and chassis points) to guide the inteior design.
 - **Woodworking & Surfaces:** Designed the custom **15mm plywood** cabinetry and workbenches to fit into the aluminum frame.
 - **Equipment Integration:** 
-  - **3D Printing:** Bambu Lab A1 mini and a P2S 3D Printer.
+  - **3D Printing:** Bambu Lab A1 mini 3D Printer.
   - **CNC:** Makera Z1 CNC.
-  - **Laser:** xTool Laser Cutter
+  - **Seeed hardware** Screens, sensors, Reachy mini, reCamera, Sensecap Watcher, Hazard response mission pack, various reComputers
 ---
 
 ### Software Handover
