@@ -24,7 +24,7 @@ PHASE TWO
 | :--- | :--- | :--- |
 | **MAY 17** | Research and buy heavy duty drawer slides. | ✅ Done |
 | **MAY 21** | **CNC drawer design:** Finish the design for the cnc drawer . | ✅ Done |
-| **MAY XX** | Order the wood board for the drawer slide.  | To-do|
+| **MAY XX** | Order the wood boards for the drawer slide.  | To-do|
 | **MAY XX**| Finished installing the cnc drawer  | To-do|
 
 ## Detailed Log of Events
