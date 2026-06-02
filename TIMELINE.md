@@ -71,6 +71,13 @@ The project reached its climax at 10:00 AM on April 22nd with the official inaug
 After the van took off, I stayed back at Seeed's Shenzhen office to complete other work and study the SenseCAP line of sensors and devices to prepare to join the van in Chengdu.
 
 ### May 11th: Chengdu
+I flew from Shenzhen Bao'an International Airport to Chengdu Shuangliu International Airport on the 11th, arriving in the evening at around 8:00 PM. I then hailed a DiDi to the dorms and settled in. The next morning, I had breakfast with Spencer, we ate Dan Dan noodles (担担面, Dan Dan Mian) and then headed to the maker space to meet with the team. 
+
+For the following days in Chengdu we worked in the maker space. I focused on improving the van, redesigning and making the CNC drawer, and we also had to find some places to display the hardware we brought along with us in the van, such as the SenseCAP products, reCamera, and Grove sensors.
+
+Simultaneously, the design work and improvements were sometimes made on the road. During our stay in Chengdu, we drove the van to schools and science museums on certain days. On the days we were on-site, not a lot of design work was done. Instead, I focused on helping set up the van for the site visits and also setting up the reCamera. This was done whenever I was inside the van, as I had the reCamera set up and running on one of the reComputers inside the van.
+
+It is also worth mentioning that our team setup had changed by this point. Spencer stayed with us for a few days in Chengdu before leaving. He had originally set off from Shenzhen with Feng Lei on the van and had already been traveling for around a month. At the Chaihuo space, I met 夏夏 (Xiaxia) and 叶子 (Yezi), as well as a new addition to our team, 浩楠 (Haonan). While I worked on the reCamera, Haonan worked on the Reachy Mini we had onboard, as he was taking over Spencer's role as the tech lead of the van.
 
 ---
 **Project Navigation:**  
