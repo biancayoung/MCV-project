@@ -5,14 +5,17 @@
 
 ---
 
-## 📖 Project Resources
+## Project Resources
 - **[View the Project Timeline](TIMELINE.md)**
+- **[Stage 1: Initial Assessment](process/STAGE_1.md)**
+- **[Stage 2: Digital Design Process](process/STAGE_2.md)**
+- **[Stage 3: Physical Assembly & Installation](process/STAGE_3.md)**
 - **[Research & Resources Log](RESEARCH_LOG.md)**
 
 ---
 
 **Project Navigation:**  
-[Index page](INDEX.md) 
+[Index page](INDEX.md)
 
 ---
 
@@ -26,23 +29,25 @@ This repository serves as a detailed log of my first-ever van conversion and lar
 - **The Workflow:** Transitioning from 3D scans to mechanical engineering and final woodworking.
 - **The Techniques:** Learning to bridge the gap between software like MayCAD and Fusion 360.
 - **The Obstacles:** Documenting the unique challenges of designing for a non-linear, moving space (vibration, heat, irregular geometry).
+
 ---
 
 ## Design & Collaboration
 
 ### 1. Structural Framework (Aluminum Design)
 The core "skeleton" of the interior was co-designed and engineered by **冯磊 (Feng Lei)** on **MayCAD**. 
-- **Remake & Integration:** I took the initial MayCAD design and remade it into a native **Autodesk Fusion 360** assembly. This was a critical step to allow for the design of the wood cabinets, shelfs and integrated component housing that the aluminum-specific software couldn't handle.
+- **Remake & Integration:** I took the initial MayCAD design and remade it into a native **Autodesk Fusion 360** assembly. This was a critical step to allow for the design of the wood cabinets, shelves and integrated component housing that the aluminum-specific software couldn't handle.
 - **Focus:** Developing a modular 30/30 extruded aluminum frame that attaches securely to the van's chassis.
 
 ### 2. Digital Twin & Component Design (Fusion 360)
 Using the aluminum frame as the master reference, I developed the complete digital model in Fusion 360.
-- **Contextual Design:** To help me visualize the layout of everything, I worked with **3D scans** of the van provided by 冯磊. These were imported as two distinct mesh bodies (interior and chassis points) to guide the inteior design.
+- **Contextual Design:** To help me visualize the layout of everything, I worked with **3D scans** of the van provided by 冯磊. These were imported as two distinct mesh bodies (interior and chassis points) to guide the interior design.
 - **Woodworking & Surfaces:** Designed the custom **15mm plywood** cabinetry and workbenches to fit into the aluminum frame.
 - **Equipment Integration:** 
   - **3D Printing:** Bambu Lab A1 mini 3D Printer.
-  - **CNC:** Makera Z1 CNC.
-  - **Seeed hardware** Screens, sensors, Reachy mini, reCamera, Sensecap Watcher, Hazard response mission pack, various reComputers
+  - **CNC:** Makera Carvera Air CNC.
+  - **Seeed Hardware:** Integrated displays, environmental sensors, Reachy Mini, reCamera, SenseCAP Watcher, Hazard Response Mission Pack, and various reComputer edge units.
+
 ---
 
 ### Software Handover
@@ -50,8 +55,9 @@ The workflow involved:
 1. **MayCAD:** Fast structural prototyping of the extrusions.
 2. **Fusion 360:** Detailed design of wood components, tolerances for moving parts, and overall aesthetic rendering.
 
+---
 
-##  Technical Specifications
+## Technical Specifications
 - **Base Vehicle:** Geely Farizon Super Van
 - **Primary Materials:** 30/30 Extruded Aluminum, 15mm Plywood, Clear Acrylic Walls.
 - **Software Stack:** Fusion 360, 3D Scanning (Reference Mesh), MayCAD (Initial design by 冯磊).
