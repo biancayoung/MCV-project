@@ -16,11 +16,11 @@ After the initial reading phase and discussing the current status of the project
 ## Initial Van Inspection
 At this stage, the van was still visually in its original state (a standard Geely Farizon cargo van). The modifications made before I joined included the removal of one row of back seats and the replacement of the two front seats with swivel versions that could turn 360 degrees. Other modifications were not visible as they were electrical and already behind the panels.
 
-### Current Interior Status:
+### Interior Status
 *   **Aluminum Mockup:** Inside the van, there was an initial aluminum extrusion mockup designed and built by **冯老师**. 
 *   **Structural Note:** This structure was a prototype; it was not yet fastened to the chassis or finalized in its dimensions.
 
-### Documentation Workflow:
+### Initial Workflow
 1.  **Photography:** I started by taking detailed pictures of the van interior for quick reference during the digital design phase.
 2.  **Initial Research:** I began a deep dive into van renovations, looking up standard live-in van modifications and mobile makerspaces as references, as well as T-slot engineering (30/30 and 80/20 aluminum).
 
@@ -29,10 +29,10 @@ At this stage, the van was still visually in its original state (a standard Geel
 ## Project Constraints
 From the first day of inspection, several major constraints were identified that would shape our entire design and build strategy.
 
-### 1. Tight Delivery Timeline
+### 1. Timeline
 The project had a fixed departure date of April 22nd. Starting from our introduction to the van on April 2nd, this left a mere 20-day window for both the full interior design and the physical implementation. 
 
-### 2. Legal and Regulatory Holds
+### 2. Registration Holds
 On April 2nd, the van was still in the process of getting its license plate registered and was waiting for official inspection. This meant that we could not perform any physical modifications or installations in the van until the registration was sorted. 
 
 ### 3. Design Certainty
