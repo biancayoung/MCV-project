@@ -14,7 +14,7 @@
 
 ## Mechanical Adjustments · CNC Drawer
 
-The initial CNC drawer design was put on pause in Shenzhen due to time constraints. In Chengdu, the drawer was finalized and installed to support the Z1 CNC.
+The initial CNC drawer design was put on pause in Shenzhen due to time constraints. In Chengdu, the drawer was finalized and installed to support the Maker Z1.
 
 | Date | Task | Description |
 | :--- | :--- | :--- |

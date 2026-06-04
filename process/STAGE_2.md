@@ -32,7 +32,7 @@ To bridge the gap between digital modeling and real-world placement, we moved th
 | :--- | :--- | :--- | :--- |
 | **3D Printer** | Large printer on the floor | Bambu Lab A1 Mini (Bench level) | Optimized floor space, cable access, and filament feeding ergonomics. |
 | **Left Frame Width** | Standard width | Widened left frame | Custom fit to support the weight and footprint of the CNC machine. |
-| **CNC Machine** | Not integrated | Z1 CNC (Slide-out) | Added heavy-duty drawer slides for easy maintenance access. |
+| **CNC Machine** | Not integrated | Maker Z1 (Slide-out) | Added heavy-duty drawer slides for easy maintenance access. |
 | **Interior Walls** | Custom plywood sheets | Sliding Acrylic panels | Swapped to meet tight scheduling constraints for fabrication. |
 
 ---

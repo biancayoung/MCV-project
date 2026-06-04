@@ -33,7 +33,7 @@ Visual documentation of the van conversion, including photography and rendering 
 *   **Van Chassis:** Geely Farizon Super Van.
 *   **Structural Material:** 30/30 Extruded Aluminum.
 *   **Surfaces:** 15mm Plywood with Acrylic wall panels.
-*   **Equipment:** Z1 CNC, Bambu A1 Mini 3D Printer, xTool Laser Cutter.
+*   **Equipment:** Maker Z1, Bambu A1 Mini 3D Printer, xTool Laser Cutter.
 
 ---
 **Project Navigation:**  

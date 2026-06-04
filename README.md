@@ -25,7 +25,7 @@ The workflow required bridging the gap between structural aluminum prototyping a
 | **Platform** | Base Vehicle | Geely Farizon Super Van |
 | **Materials** | Primary Construction | 30/30 Extruded Aluminum · 15mm Plywood · Clear Acrylic |
 | **Software** | Digital Design Stack | Autodesk Fusion 360 · MayCAD · 3D Mesh Scanners |
-| **Equipment** | Prototyping Hardware | Bambu Lab A1 mini · Z1 CNC |
+| **Equipment** | Prototyping Hardware | Bambu Lab A1 mini · Maker Z1 |
 | **Equipment** | Edge & IoT Hardware | reComputer · reCamera · SenseCAP Watcher · Reachy Mini · Hazard Response Pack |
 
 ## Design Architecture · Collaborative Workflow
