@@ -53,7 +53,7 @@ I began working with the 3D scan of the van's interior provided by 冯老师. Th
 ### April 10-14: Iterative Design
 After a basic block mockup, I moved to **Version 1**, recreating 冯老师’s MayCAD assembly in Fusion 360 piece-by-piece to allow for custom wood joinery design. Initially, we planned for a large 3D printer on the floor, but I quickly realized the ergonomics were terrible for cable access and filament feeding. 
 
-The shift to **Version 2** was triggered by the addition of a **Makera Carvera Air CNC**. To accommodate its 30kg weight and 84cm lid height, I swapped the frame widths (making the left side wider) and designed a lifting counter space with heavy-duty drawer slides for maintenance access. Due to time, we replaced custom wood walls with acrylic sheets - a necessary pivot to meet the deadline. The CNC drawer was also put on pause and was left for later to be completed.
+The shift to **Version 2** was triggered by the addition of a **Z1 CNC**. To accommodate its 30kg weight and 84cm lid height, I swapped the frame widths (making the left side wider) and designed a lifting counter space with heavy-duty drawer slides for maintenance access. Due to time, we replaced custom wood walls with acrylic sheets - a necessary pivot to meet the deadline. The CNC drawer was also put on pause and was left for later to be completed.
 
 ### April 16-17: BOM Finalization
 Finalizing the BOM was a high-stress sprint. The manufacturer only accepted whole numbers for dimensions, forcing us to round up our 0.5mm offsets. 冯老师 and I also had to manually convert the Fusion 360 frame back into MayCAD to generate the automated BOM for screw hole placements. Orders were sent on the 16th, and the van was successfully registered on the 17th.

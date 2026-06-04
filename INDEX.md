@@ -1,4 +1,4 @@
-# Documentation Index
+﻿# Documentation Index
 
 Welcome to the central documentation hub for the **Mobile Makerspace Van (MCV) Project**. This repository tracks the 20-day transformation of a standard Geely Farizon cargo van into a fully functional, mobile hardware laboratory.
 
@@ -33,7 +33,7 @@ Visual documentation of the van conversion, including photography and rendering 
 *   **Van Chassis:** Geely Farizon Super Van.
 *   **Structural Material:** 30/30 Extruded Aluminum.
 *   **Surfaces:** 15mm Plywood with Acrylic wall panels.
-*   **Equipment:** Makera Carvera Air CNC, Bambu A1 Mini 3D Printer, xTool Laser Cutter.
+*   **Equipment:** Z1 CNC, Bambu A1 Mini 3D Printer, xTool Laser Cutter.
 
 ---
 **Project Navigation:**  

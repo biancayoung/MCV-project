@@ -1,4 +1,4 @@
-# Stage 4: Chengdu Modifications
+﻿# Stage 4: Chengdu Modifications
 
 > **Documenting hardware installations and technical adjustments made on-site in Chengdu.**
 > 
@@ -14,7 +14,7 @@
 
 ## Mechanical Adjustments · CNC Drawer
 
-The initial CNC drawer design was put on pause in Shenzhen due to time constraints. In Chengdu, the drawer was finalized and installed to support the Makera Carvera Air CNC.
+The initial CNC drawer design was put on pause in Shenzhen due to time constraints. In Chengdu, the drawer was finalized and installed to support the Z1 CNC.
 
 | Date | Task | Description |
 | :--- | :--- | :--- |
