@@ -1,4 +1,4 @@
-Project Navigation:  
+﻿Project Navigation:  
 [Index page](INDEX.md) | [Resources](RESEARCH_LOG.md)
 
 ---
@@ -45,7 +45,7 @@ Project Navigation:
 ### April 2: Kick-off
 My involvement in the MCV Project officially began on April 2nd, 2026, when I was first introduced to the Geely Farizon Super Van. The timeline was exceptionally tight, with a fixed departure date of April 22nd, leaving a 20-day window for both design and implementation. At the start of this phase, the van was still undergoing license plate registration and inspection, which meant no physical modifications could be made to the vehicle. 
 
-This limitation presented our greatest challenge: the entire interior had to be designed as a complete, finalized digital system before any physical assembly began. Unlike typical van conversions that span months of iterative building, this project relied entirely on high-precision digital planning and pre-fabrication. It’s also worth mentioning that our team—consisting of 冯老师 (Feng Lei), Spencer Yan, and myself—had no prior experience converting a van or building a mobile makerspace. 
+This limitation presented our greatest challenge: the entire interior had to be designed as a complete, finalized digital system before any physical assembly began. Unlike typical van conversions that span months of iterative building, this project relied entirely on high-precision digital planning and pre-fabrication. It’s also worth mentioning that our team - consisting of 冯老师 (Feng Lei), Spencer Yan, and myself - had no prior experience converting a van or building a mobile makerspace. 
 
 ### April 8: 3D Scan Setup
 I began working with the 3D scan of the van's interior provided by 冯老师. This was my first time working with the interior of a vehicle and using a mesh as a reference at this scale. I researched established workflows and utilized the "Create Mesh Section Sketch" tool in Fusion 360. By taking horizontal and vertical slices of the scan, I created a "Digital Twin" envelope that ensured our structure wouldn't interfere with the physical van's ribs or curves.
@@ -53,13 +53,13 @@ I began working with the 3D scan of the van's interior provided by 冯老师. Th
 ### April 10-14: Iterative Design
 After a basic block mockup, I moved to **Version 1**, recreating 冯老师’s MayCAD assembly in Fusion 360 piece-by-piece to allow for custom wood joinery design. Initially, we planned for a large 3D printer on the floor, but I quickly realized the ergonomics were terrible for cable access and filament feeding. 
 
-The shift to **Version 2** was triggered by the addition of a **Makera Carvera Air CNC**. To accommodate its 30kg weight and 84cm lid height, I swapped the frame widths (making the left side wider) and designed a lifting counter space with heavy-duty drawer slides for maintenance access. Due to time, we replaced custom wood walls with acrylic sheets—a necessary pivot to meet the deadline. The CNC drawer was also put on pause and was left for later to be completed.
+The shift to **Version 2** was triggered by the addition of a **Makera Carvera Air CNC**. To accommodate its 30kg weight and 84cm lid height, I swapped the frame widths (making the left side wider) and designed a lifting counter space with heavy-duty drawer slides for maintenance access. Due to time, we replaced custom wood walls with acrylic sheets - a necessary pivot to meet the deadline. The CNC drawer was also put on pause and was left for later to be completed.
 
 ### April 16-17: BOM Finalization
 Finalizing the BOM was a high-stress sprint. The manufacturer only accepted whole numbers for dimensions, forcing us to round up our 0.5mm offsets. 冯老师 and I also had to manually convert the Fusion 360 frame back into MayCAD to generate the automated BOM for screw hole placements. Orders were sent on the 16th, and the van was successfully registered on the 17th.
 
 ### April 20: Frame Assembly
-The parts arrived on April 20th, and we immediately headed to a garage in Huizhou. The assembly was far more complex than imagined—60+ nearly identical components mixed together. We spent hours sorting by size and figuring out the specific tightening sequence and hole orientations. We worked until 11:20 PM to finish the primary frames, and then worked the next morning until the afternoon to complete the process. We also had to make some on-site modifications to the aluminum structure when it was being installed into the van, as there were some extruded parts of the van we didn't notice until later.
+The parts arrived on April 20th, and we immediately headed to a garage in Huizhou. The assembly was far more complex than imagined - 60+ nearly identical components mixed together. We spent hours sorting by size and figuring out the specific tightening sequence and hole orientations. We worked until 11:20 PM to finish the primary frames, and then worked the next morning until the afternoon to complete the process. We also had to make some on-site modifications to the aluminum structure when it was being installed into the van, as there were some extruded parts of the van we didn't notice until later.
 
 ### April 21: Installation & Tuning
 On the 21st, we moved the frames into the van and secured them to the chassis. Back at the Seeed Studio office, those rounded-up 0.5mm offsets came back to bite us; some boards wouldn't fit. 冯老师 and the team took turns with a metal-cutting circular saw to shave down the edges. Once the panels were finally secured, I could step back as the rest of the team took over the electronics and demo setup.

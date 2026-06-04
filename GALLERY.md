@@ -1,4 +1,4 @@
-# 📸 MCV Project: Visual Gallery
+﻿# 📸 MCV Project: Visual Gallery
 
 This gallery documents the physical transformation of the Geely Farizon van into the Chaihuo Mobile Makerspace.
 
