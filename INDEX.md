@@ -1,4 +1,4 @@
-﻿# Documentation Index
+# Documentation Index
 
 Welcome to the central documentation hub for the **Mobile Makerspace Van (MCV) Project**. This repository tracks the 20-day transformation of a standard Geely Farizon cargo van into a fully functional, mobile hardware laboratory.
 
@@ -18,10 +18,13 @@ A technical deep-dive into the engineering workflow. This section details how we
 ### 4. [Stage 3: Assembly & Installation](process/STAGE_3.md)
 The physical building phase in Huizhou and Shenzhen. This covers the aluminum sorting, the assembly learning curve, double-laptop reference checking, structural installs, and parking-lot "MacGyvering" of the wood panels and angles.
 
-### 5. [Research & Resources Log](RESEARCH_LOG.md)
+### 5. [Stage 4: Chengdu Modifications](process/STAGE_4.md)
+Documenting hardware installations, the CNC drawer completion, and technical adjustments made on-site at the Chaihuo space in Chengdu.
+
+### 6. [Research & Resources Log](RESEARCH_LOG.md)
 A curated archive of the technical guides, aluminum extrusion standards, and mobile FabLab inspiration used to inform the interior design.
 
-### 6. [Gallery & Media](GALLERY.md)
+### 7. [Gallery & Media](GALLERY.md)
 Visual documentation of the van conversion, including photography and rendering progress.
 
 ---
