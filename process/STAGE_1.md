@@ -43,21 +43,17 @@ At this stage, the van was still visually in its original state (a standard Geel
 ## Project Constraints
 From the first day of inspection, several major constraints were identified that would shape our entire design and build strategy.
 
-> [!NOTE]
-> **Side Note: Timeline**
-> The project had a fixed departure date of April 22nd. Starting from our introduction to the van on April 2nd, this left a mere 20-day window for both the full interior design and the physical implementation.
+### Timeline
+The project had a fixed departure date of April 22nd. Starting from our introduction to the van on April 2nd, this left a mere 20-day window for both the full interior design and the physical implementation.
 
-> [!NOTE]
-> **Engineering Note: Registration Hold**
-> On April 2nd, the van was still in the process of getting its license plate registered and was waiting for official inspection. This meant that we could not perform any physical modifications or installations in the van until the registration was sorted.
+### Registration Hold
+On April 2nd, the van was still in the process of getting its license plate registered and was waiting for official inspection. This meant that we could not perform any physical modifications or installations in the van until the registration was sorted.
 
-> [!NOTE]
-> **Margin Note: Design Certainty**
-> The registration hold combined with the tight timeline created our biggest challenge: the entire design had to be finalized as a complete system before any materials were ordered. This meant manufacturers had to cut all aluminum extrusions and wood panels at the same time to allow for a rapid assembly once the van was cleared. There was virtually no room for major adjustments after the design phase.
+### Design Certainty
+The registration hold combined with the tight timeline created our biggest challenge: the entire design had to be finalized as a complete system before any materials were ordered. This meant manufacturers had to cut all aluminum extrusions and wood panels at the same time to allow for a rapid assembly once the van was cleared. There was virtually no room for major adjustments after the design phase.
 
-> [!NOTE]
-> **Engineering Note: Irregular Geometry**
-> The van interior features non-linear walls and structural ribs. Precise digital modeling was required to ensure the modular 30/30 frames would sit securely while maximizing usable workspace.
+### Irregular Geometry
+The van interior features non-linear walls and structural ribs. Precise digital modeling was required to ensure the modular 30/30 frames would sit securely while maximizing usable workspace.
 
 ---
 

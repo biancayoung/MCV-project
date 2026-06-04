@@ -81,19 +81,17 @@ With the skeletons securely mounted inside the vehicle, we packed our tools, jum
 
 Arriving back at the office, our work was far from done. The frames were inside the van, but they were still bare skeletons. We had to install the custom 15mm plywood worktops and shelving boards using L-bracket attachments. This is where the challenges truly began.
 
-> [!NOTE]
-> **Margin Note: Plywood Adjustments (The 0.5mm Offsets)**
-> The tight tolerances we designed in CAD meant that several pre-cut plywood boards were exactly **0.5 mm too wide** to fit between the aluminum pillars. This was due to rounding up our CAD dimensions to whole numbers for the manufacturer in Stage 2.
->
-> In a true display of on-site "MacGyvering", we pulled out a handheld circular saw in the office parking lot and carefully shaved a fraction of a millimeter off the edges of the boards until they slipped perfectly into place flush.
+### Plywood Adjustments (The 0.5mm Offsets)
+The tight tolerances we designed in CAD meant that several pre-cut plywood boards were exactly **0.5 mm too wide** to fit between the aluminum pillars. This was due to rounding up our CAD dimensions to whole numbers for the manufacturer in Stage 2.
 
-> [!NOTE]
-> **Side Note: Corner Clearance Error (The Template Mistake)**
-> The top counter board on the right side of the frame was hitting the curved corner wall of the van, which leaned inward at an angle.
->
-> *How it happened:* We actually checked this constraint with a custom cardboard template earlier. However, we checked it against the *old mockup frame* which was unattached and sitting out of its final height/depth alignment, making our test template completely inaccurate.
-> 
-> *The Fix:* We marked the interference line, brought the heavy wood panel out to the pavement, and used a handheld circular saw to make a long, angled rip cut along the back edge to clear the curved wall.
+In a true display of on-site "MacGyvering", we pulled out a handheld circular saw in the office parking lot and carefully shaved a fraction of a millimeter off the edges of the boards until they slipped perfectly into place flush.
+
+### Corner Clearance Error (The Template Mistake)
+The top counter board on the right side of the frame was hitting the curved corner wall of the van, which leaned inward at an angle.
+
+*How it happened:* We actually checked this constraint with a custom cardboard template earlier. However, we checked it against the *old mockup frame* which was unattached and sitting out of its final height/depth alignment, making our test template completely inaccurate.
+ 
+*The Fix:* We marked the interference line, brought the heavy wood panel out to the pavement, and used a handheld circular saw to make a long, angled rip cut along the back edge to clear the curved wall.
 
 ---
 

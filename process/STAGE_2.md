@@ -37,9 +37,8 @@ To bridge the gap between digital modeling and real-world placement, we moved th
 
 ---
 
-> [!NOTE]
-> **Afterthought: Final BOM & Tolerances**
-> Once Version 2 was fixed, I created SVGs of the wood outlines for the manufacturers. A major challenge arose when we learned the manufacturer only accepted whole numbers for dimensions. I had to round up all my 0.5mm offsets (designed for flush fits) at the last minute in the BOM. This caused significant anxiety, as I knew these discrepancies would require manual and on-site modifications during the final installation at the Seeed Studio office.
+### Final BOM & Tolerances
+Once Version 2 was fixed, I created SVGs of the wood outlines for the manufacturers. A major challenge arose when we learned the manufacturer only accepted whole numbers for dimensions. I had to round up all my 0.5mm offsets (designed for flush fits) at the last minute in the BOM. This caused significant anxiety, as I knew these discrepancies would require manual and on-site modifications during the final installation at the Seeed Studio office.
 
 ---
 [Timeline](../TIMELINE.md) | [Stage 1: Assessment](STAGE_1.md) | [Stage 2: Design](STAGE_2.md) | [Stage 3: Assembly](STAGE_3.md) | [Resources Log](../RESEARCH_LOG.md)
