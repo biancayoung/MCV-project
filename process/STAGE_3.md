@@ -55,8 +55,6 @@ Once everything was sorted, we began the actual build:
 
 This process was long, repetitive, and incredibly tedious. Because T-slot assemblies have strict installation sequences, we frequently found ourselves completing a section only to realize we had forgotten a crucial internal T-nut or put a bracket in the wrong order. We had to repeatedly disassemble, correct, and reassemble parts of the frame.
 
-<video controls src="../images/stage_3/assembly_timelapse.mp4" width="100%"></video>
-
 ### 3. Reference Modeling
 As the hours dragged on and the night grew later, keeping the 3D relationships straight in my head became incredibly challenging. To cope, I set up a two-laptop workstation on the garage floor:
 *   **Laptop 1 (Personal):** Ran my native **Fusion 360** assembly. This allowed me to rotate, zoom, and inspect the joints dynamically from any angle to verify exact bracket positions.
