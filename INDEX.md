@@ -22,10 +22,13 @@ The physical building phase in Huizhou and Shenzhen. This covers the aluminum so
 ### 5. [Stage 4: Chengdu Modifications](process/STAGE_4.md)
 Documenting hardware installations, the CNC drawer completion, and technical adjustments made on-site at the Chaihuo space in Chengdu.
 
-### 6. [Research & Resources Log](RESEARCH_LOG.md)
+### 6. [Stage 5: Final Modifications](process/STAGE_5.md)
+Documenting the final touches and usability improvements made before concluding the project, including securing the 3D printer.
+
+### 7. [Research & Resources Log](RESEARCH_LOG.md)
 A curated archive of the technical guides, aluminum extrusion standards, and mobile FabLab inspiration used to inform the interior design.
 
-### 7. [Gallery & Media](GALLERY.md)
+### 8. [Gallery & Media](GALLERY.md)
 Visual documentation of the van conversion, including photography and rendering progress.
 
 ---
@@ -38,4 +41,4 @@ Visual documentation of the van conversion, including photography and rendering 
 
 ---
 **Project Navigation:**  
-[Timeline](TIMELINE.md) | [Stage 1: Assessment](process/STAGE_1.md) | [Stage 2: Design](process/STAGE_2.md) | [Stage 3: Assembly](process/STAGE_3.md) | [Resources](RESEARCH_LOG.md)
+[Timeline](TIMELINE.md) | [Stage 1: Assessment](process/STAGE_1.md) | [Stage 2: Design](process/STAGE_2.md) | [Stage 3: Assembly](process/STAGE_3.md) | [Stage 4: Chengdu](process/STAGE_4.md) | [Stage 5: Final](process/STAGE_5.md) | [Resources](RESEARCH_LOG.md)
