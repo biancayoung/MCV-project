@@ -105,7 +105,7 @@ We arrived in the city a few hours before sunset and got situated at our hotel. 
 ### May 29th to 31st: Return to Chengdu
 Allen had decided to accompany me back to Chengdu, as he wasn't faring too well with the altitude either, and to ensure I wouldn't have to make the long journey by myself. Once we arrived back in Chengdu, we spent our first day resting and recovering. Afterward, I headed back into the makerspace to work on designing a custom holder for the 3D printer's AMS Lite module. This concluded my travels and hands-on work with the MCV project.
 
-This was an incredible journey from start to finish. This project truly inspires me, not just from a design and maker standpoint, but from the community outreach aspect as well. Working directly with locals to create custom solutions, and bringing resources and education to remote areas, has been a phenomenal experience. Now, with AI becoming more and more ingrained in our day-to-day lives, it is important not to let this wave carry us forward while leaving others behind.
+This was an incredible journey from start to finish. This project truly inspires me, not just from a design and maker standpoint, but from the community outreach aspect as well. Working directly with locals to create custom solutions, and bringing resources and education to remote areas, has been a phenomenal experience. Now, with AI becoming more and more ingrained in our day-to-day lives, knowing how to leverage it to our benefit is a skill that is essential for being part of this future we are building. But it is important not to let this wave carry us forward while leaving others behind.
 
 ---
 **Project Navigation:**  
