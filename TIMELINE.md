@@ -79,6 +79,9 @@ Simultaneously, the design work and improvements were sometimes made on the road
 
 It is also worth mentioning that our team setup had changed by this point. Spencer stayed with us for a few days in Chengdu before leaving. He had originally set off from Shenzhen with Feng Lei on the van and had already been traveling for around a month. At the Chaihuo space, I met 夏夏 (Xiaxia) and 叶子 (Yezi), as well as a new addition to our team, 浩楠 (Haonan). While I worked on the reCamera, Haonan worked on the Reachy Mini we had onboard, as he was taking over Spencer's role as the tech lead of the van.
 
+### May 22nd: Drawer Slides Design
+I finished the design for the drawer slides and made the final decisions on the parameters and design style. The drawer design is split up into 3 different parts: the box which is attached to the aluminum frame, the drawer slides (hardware), and the actual drawer. The drawer is designed in a slightly different way from most designs; the surface the CNC will rest on is set on top of the side and back wall, instead of underneath. This is to maximize the load bearing of the structure.
+
 ---
 **Project Navigation:**  
 [Index page](INDEX.md) | [Timeline](TIMELINE.md) | [Stage 1: Assessment](process/STAGE_1.md) | [Stage 2: Design](process/STAGE_2.md) | [Stage 3: Assembly](process/STAGE_3.md) | [Resources](RESEARCH_LOG.md)
