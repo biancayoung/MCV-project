@@ -92,6 +92,8 @@ On the 24th, I rushed to install the CNC drawer. Back at the makerspace in Cheng
 
 Afterward, we officially set off on the road, marking the beginning of our journey along the famous China National Highway 318 (Route 318). At this point, our traveling team had changed and expanded. While Xiajie (Xiaxia) and Yezi stayed behind in Chengdu, the core crew moving forward consisted of Feng Lei (team lead), Haonan (our new tech lead), and myself. We were also joined by Eric Pan, founder and CEO of Seeed Studio, his father, and Fanxiang, who traveled alongside us in a separate vehicle. For the trip along Route 318, I traveled on board this second vehicle.
 
+As we drove further along the highway, the scenery began to shift dramatically. The lush, rich green mountains gave way to more rugged, rocky, and grassy hills. Slowly but surely, I could start to see the snow-capped mountains in the distance as we made our way through the Zheduo Mountain Pass toward Tagong.
+
 ---
 **Project Navigation:**  
 [Index page](INDEX.md) | [Timeline](TIMELINE.md) | [Stage 1: Assessment](process/STAGE_1.md) | [Stage 2: Design](process/STAGE_2.md) | [Stage 3: Assembly](process/STAGE_3.md) | [Resources](RESEARCH_LOG.md)
