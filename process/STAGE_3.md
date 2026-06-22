@@ -1,4 +1,4 @@
-﻿[Timeline](../TIMELINE.md) | [Stage 1: Assessment](STAGE_1.md) | [Stage 2: Design](STAGE_2.md) | [Stage 3: Assembly](STAGE_3.md) | [Resources Log](../RESEARCH_LOG.md)
+[Timeline](../TIMELINE.md) | [Stage 1: Assessment](STAGE_1.md) | [Stage 2: Design](STAGE_2.md) | [Stage 3: Assembly](STAGE_3.md) | [Resources Log](../RESEARCH_LOG.md)
 
 ---
 
@@ -54,6 +54,8 @@ Once everything was sorted, we began the actual build:
 *   **Tie-in bars:** Once the side frames were up, we added the horizontal cross-members that held the entire structure together.
 
 This process was long, repetitive, and incredibly tedious. Because T-slot assemblies have strict installation sequences, we frequently found ourselves completing a section only to realize we had forgotten a crucial internal T-nut or put a bracket in the wrong order. We had to repeatedly disassemble, correct, and reassemble parts of the frame.
+
+![Assembly Timelapse](../images/stage_3/assembly_timelapse.mp4)
 
 ### 3. Reference Modeling
 As the hours dragged on and the night grew later, keeping the 3D relationships straight in my head became incredibly challenging. To cope, I set up a two-laptop workstation on the garage floor:
