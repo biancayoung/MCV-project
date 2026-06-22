@@ -82,6 +82,9 @@ It is also worth mentioning that our team setup had changed by this point. Spenc
 ### May 21st and 22nd: Drawer Slides Design
 I finished the design for the drawer slides and made the final decisions on the parameters and design style. The drawer design is split up into 3 different parts: the box which is attached to the aluminum frame, the drawer slides (hardware), and the actual drawer. The drawer is designed in a slightly different way from most designs; the surface the CNC will rest on is set on top of the side and back wall, instead of underneath. This is to maximize the load bearing of the structure. I also ordered the wood boards and heavy-duty drawer slides on Taobao so they would arrive in time for the installation.
 
+### May 23rd to 25th: Ya'an and the Start of Route 318
+We visited the Giant Panda breeding and research base in Ya'an and took some time for sightseeing. Following this, we visited the Sichuan Ya'an Middle School for a special event celebrating Eric Pan's return to his alma mater, where we participated in engaging discussions and cultural exchanges with the students. Afterward, we officially set off on the road, marking the beginning of our journey along the famous China National Highway 318 (Route 318).
+
 ---
 **Project Navigation:**  
 [Index page](INDEX.md) | [Timeline](TIMELINE.md) | [Stage 1: Assessment](process/STAGE_1.md) | [Stage 2: Design](process/STAGE_2.md) | [Stage 3: Assembly](process/STAGE_3.md) | [Resources](RESEARCH_LOG.md)
