@@ -16,6 +16,8 @@ A comprehensive breakdown of the digital design process, physical assembly, and 
 | **Stage 1** | Initial Assessment & Van 3D Scanning | [Stage 1 Documentation](process/STAGE_1.md) |
 | **Stage 2** | Digital Design Process & Framing | [Stage 2 Documentation](process/STAGE_2.md) |
 | **Stage 3** | Physical Assembly & Installation | [Stage 3 Documentation](process/STAGE_3.md) |
+| **Stage 4** | Chengdu Work & Hardware Displays | [Stage 4 Documentation](process/STAGE_4.md) |
+| **Stage 5** | Final Drawer & 3D Printer Updates | [Stage 5 Documentation](process/STAGE_5.md) |
 | **Research** | Concept references & technical guides | [Research & Resources Log](RESEARCH_LOG.md) |
 
 ## Technical Specifications · Hardware × Software
