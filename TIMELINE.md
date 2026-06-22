@@ -86,7 +86,11 @@ I finished the design for the drawer slides and made the final decisions on the 
 We spent the day exploring and went on a hike up the mountain at the Tangjiahe Nature Reserve in Guangyuan. The hike was truly amazing. We were completely immersed in nature and surrounded by vibrant greenery, with little waterfalls at almost every stop. After spending the last few days working in the cramped and sometimes uncomfortable confines of the van, this change of scenery was breathtaking. Fueled by two coffees, I felt especially energized, and reaching the peak of the mountain to take in the spectacular view was an unforgettable experience.
 
 ### May 23rd to 25th: Ya'an and the Start of Route 318
-We visited the Giant Panda breeding and research base in Ya'an and took some time for sightseeing. Following this, we visited the Sichuan Ya'an Middle School for a special event celebrating Eric Pan's return to his alma mater, where we participated in engaging discussions and cultural exchanges with the students. Afterward, we officially set off on the road, marking the beginning of our journey along the famous China National Highway 318 (Route 318).
+We visited the Giant Panda breeding and research base in Ya'an and took some time for sightseeing. Following this, we visited the Sichuan Ya'an Middle School for a special event celebrating Eric Pan's return to his alma mater, where we participated in engaging discussions and cultural exchanges with the students. 
+
+On the 24th, I rushed to install the CNC drawer. Back at the makerspace in Chengdu, we didn't have the necessary tools and materials for the installation, so I had to pack the drawer components, boards, and hardware onto the van. Once we were in Ya'an, we found a local "shifu" (master craftsman) to help. In his small workshop, he used a nail gun and screws to assemble everything. While I wasn't fully on board with the use of a nail gun, beggars can't be choosers, and the entire installation only took about an hour and a half.
+
+Afterward, we officially set off on the road, marking the beginning of our journey along the famous China National Highway 318 (Route 318).
 
 ---
 **Project Navigation:**  
