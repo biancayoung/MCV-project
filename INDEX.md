@@ -1,4 +1,4 @@
-﻿# Documentation Index
+# Documentation Index
 
 Welcome to the central documentation hub for the **Mobile Makerspace Van (MCV) Project**. This repository tracks the 20-day transformation of a standard Geely Farizon cargo van into a fully functional, mobile hardware laboratory.
 
@@ -14,6 +14,7 @@ The project's starting point. This covers the initial walkthrough, the assessmen
 
 ### 3. [Stage 2: Digital Design](process/STAGE_2.md)
 A technical deep-dive into the engineering workflow. This section details how we used 3D scans to create a "Digital Twin," the translation from MayCAD to Fusion 360, and the logic behind major equipment pivots (CNC and 3D printer placement).
+*   **Deep Dive:** [CNC Slide-Out Drawer Design](process/CNC_DRAWER_SPEC.md)
 
 ### 4. [Stage 3: Assembly & Installation](process/STAGE_3.md)
 The physical building phase in Huizhou and Shenzhen. This covers the aluminum sorting, the assembly learning curve, double-laptop reference checking, structural installs, and parking-lot "MacGyvering" of the wood panels and angles.

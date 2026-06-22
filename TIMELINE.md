@@ -1,4 +1,4 @@
-﻿Project Navigation:  
+Project Navigation:  
 [Index page](INDEX.md) | [Resources](RESEARCH_LOG.md)
 
 ---
@@ -71,7 +71,7 @@ The project reached its climax at 10:00 AM on April 22nd with the official inaug
 After the van took off, I stayed back at Seeed's Shenzhen office to complete other work and study the SenseCAP line of sensors and devices to prepare to join the van in Chengdu.
 
 ### May 11th: Chengdu
-I flew from Shenzhen Bao'an International Airport to Chengdu Shuangliu International Airport on the 11th, arriving in the evening at around 8:00 PM. I then hailed a DiDi to the dorms and settled in. The next morning, I had breakfast with Spencer, we ate Dan Dan noodles (担担面, Dan Dan Mian) and then headed to the maker space to meet with the team. 
+I flew from Shenzhen Bao'an International Airport to Chengdu Shuangliu International Airport on the 11th, arriving in the evening at around 8:00 PM. I then hailed a DiDi to the dorms and settled in. The next morning, I had breakfast with Spencer, the tech lead onboard the van. We ate Dan Dan noodles (担担面, Dan Dan Mian) and then headed to the maker space to meet with the team. 
 
 For the following days in Chengdu we worked in the maker space. I focused on improving the van, redesigning and making the CNC drawer, and we also had to find some places to display the hardware we brought along with us in the van, such as the SenseCAP products, reCamera, and Grove sensors.
 

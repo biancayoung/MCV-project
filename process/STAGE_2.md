@@ -1,4 +1,4 @@
-﻿[Timeline](../TIMELINE.md) | [Stage 1: Assessment](STAGE_1.md) | [Stage 2: Design](STAGE_2.md) | [Stage 3: Assembly](STAGE_3.md) | [Resources Log](../RESEARCH_LOG.md)
+[Timeline](../TIMELINE.md) | [Stage 1: Assessment](STAGE_1.md) | [Stage 2: Design](STAGE_2.md) | [Stage 3: Assembly](STAGE_3.md) | [Resources Log](../RESEARCH_LOG.md)
 
 ---
 
@@ -32,7 +32,7 @@ To bridge the gap between digital modeling and real-world placement, we moved th
 | :--- | :--- | :--- | :--- |
 | **3D Printer** | Large printer on the floor | Bambu Lab A1 Mini (Bench level) | Optimized floor space, cable access, and filament feeding ergonomics. |
 | **Left Frame Width** | Standard width | Widened left frame | Custom fit to support the weight and footprint of the CNC machine. |
-| **CNC Machine** | Not integrated | Maker Z1 (Slide-out) | Added heavy-duty drawer slides for easy maintenance access. |
+| **CNC Machine** | Not integrated | Maker Z1 (Slide-out) | Added heavy-duty drawer slides for easy maintenance access. (See [Detailed Drawer Specs](CNC_DRAWER_SPEC.md)) |
 | **Interior Walls** | Custom plywood sheets | Sliding Acrylic panels | Swapped to meet tight scheduling constraints for fabrication. |
 
 ---
