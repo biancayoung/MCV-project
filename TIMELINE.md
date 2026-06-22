@@ -108,6 +108,8 @@ Allen had decided to accompany me back to Chengdu, as he wasn't faring too well 
 ### Final Thoughts
 This was an incredible journey from start to finish. This project truly inspires me, not just from a design and maker standpoint, but from the community outreach aspect as well. Working directly with locals to create custom solutions, and bringing resources and education to remote areas, has been a phenomenal experience. Now, with AI becoming more and more ingrained in our day-to-day lives, knowing how to leverage it to our benefit is a skill that is essential for being part of this future we are building. But it is important not to let this wave carry us forward while leaving others behind.
 
+A massive thank you to Seeed Studio, Chaihuo Maker Space, and the entire team who made this project possible. I wish the remaining crew safe travels and the best of luck on the rest of their incredible journey!
+
 ---
 **Project Navigation:**  
 [Index page](INDEX.md) | [Timeline](TIMELINE.md) | [Stage 1: Assessment](process/STAGE_1.md) | [Stage 2: Design](process/STAGE_2.md) | [Stage 3: Assembly](process/STAGE_3.md) | [Resources](RESEARCH_LOG.md)
