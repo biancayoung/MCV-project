@@ -90,7 +90,7 @@ We visited the Giant Panda breeding and research base in Ya'an and took some tim
 
 On the 24th, I rushed to install the CNC drawer. Back at the makerspace in Chengdu, we didn't have the necessary tools and materials for the installation, so I had to pack the drawer components, boards, and hardware onto the van. Once we were in Ya'an, we found a local "shifu" (master craftsman) to help. In his small workshop, he used a nail gun and screws to assemble everything. While I wasn't fully on board with the use of a nail gun, beggars can't be choosers, and the entire installation only took about an hour and a half.
 
-Afterward, we officially set off on the road, marking the beginning of our journey along the famous China National Highway 318 (Route 318).
+Afterward, we officially set off on the road, marking the beginning of our journey along the famous China National Highway 318 (Route 318). At this point, our traveling team had changed and expanded. While Xiajie (Xiaxia) and Yezi stayed behind in Chengdu, the core crew moving forward consisted of Feng Lei (team lead), Haonan (our new tech lead), and myself. We were also joined by Eric Pan, founder and CEO of Seeed Studio, his father, and Fanxiang, who traveled alongside us in a separate vehicle. For the trip along Route 318, I traveled on board this second vehicle.
 
 ---
 **Project Navigation:**  
