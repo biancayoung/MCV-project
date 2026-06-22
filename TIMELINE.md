@@ -102,6 +102,9 @@ Batang is situated right at the border of Tibet and marked the final stop of my 
 
 We arrived in the city a few hours before sunset and got situated at our hotel. After resting for a bit, Haonan, Allen, and I went out to explore. I stopped by a few shops to buy some souvenirs, we visited a local exhibition we happened to pass by, and we spent time simply wandering the colorful streets. Later in the evening, we met up with the rest of the team for dinner and watched a local dance in the city square. To cap off the night, we found a KTV spot and sang until it was time to call it a day. The very next morning at 5:00 AM, Allen and I made our way to the bus station and caught a 14-hour bus ride all the way back to Chengdu.
 
+### May 29th to 31st: Return to Chengdu
+Allen had decided to accompany me back to Chengdu, as he wasn't faring too well with the altitude either, and to ensure I wouldn't have to make the long journey by myself. Once we arrived back in Chengdu, we spent our first day resting and recovering. Afterward, I headed back into the makerspace to work on designing a custom holder for the 3D printer's AMS Lite module. This concluded my travels and hands-on work with the MCV project.
+
 ---
 **Project Navigation:**  
 [Index page](INDEX.md) | [Timeline](TIMELINE.md) | [Stage 1: Assessment](process/STAGE_1.md) | [Stage 2: Design](process/STAGE_2.md) | [Stage 3: Assembly](process/STAGE_3.md) | [Resources](RESEARCH_LOG.md)
