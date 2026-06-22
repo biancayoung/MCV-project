@@ -1,4 +1,4 @@
-﻿# Stage 4: Chengdu Modifications
+# Stage 4: Chengdu Modifications
 
 > **Documenting hardware installations and technical adjustments made on-site in Chengdu.**
 > 
@@ -32,6 +32,12 @@ During the site visits, we needed dedicated display solutions for the Seeed Stud
 | **Hardware Mounts** | Designed, 3D printed, and installed custom holders for the SenseCAP products and Grove sensors onto the van walls (May 21 - May 22). |
 | **reCamera Demo** | Set up a live heatmap demonstration using the reCamera. The demo was run locally off one of the reComputer units installed inside the van. |
 | **Reachy Mini** | Haonan focused on setting up and maintaining the Reachy Mini robot onboard. |
+
+### Display Design Workflow
+
+To figure out the display layouts for the modules around the van, I started by drawing a doodle on the whiteboard. This helped me map out exactly where I wanted to place the hardware for each module (excluding anything that had already been set up). The main components we needed to put up for display included the reCamera, the SenseCAP data logger, the 4G data hub, various environmental sensors, and the Grove sensors.
+
+From that whiteboard doodle, I moved directly into the digital design phase. The first and fastest components to design for were the Grove sensors. I simply laid them out on my notebook in a clean layout, took a reference picture, and carefully measured them with a caliper. Using Fusion 360, I designed a simple display board that featured the names of the sensors and dedicated slots for them to fit into. The plan was to attach the sensors to the board using strong double-sided tape. This allowed us to easily remove them to show people the back side of the modules during demonstrations, while also simplifying the design process so we could manufacture the displays as fast as possible.
 
 ---
 [Timeline](../TIMELINE.md) | [Stage 2: Design](STAGE_2.md) | [Stage 3: Assembly](STAGE_3.md) | [Resources Log](../RESEARCH_LOG.md)
