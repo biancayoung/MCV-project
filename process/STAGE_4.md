@@ -23,6 +23,14 @@ The initial CNC drawer design was put on pause in Shenzhen due to time constrain
 | **May 22** | Fabrication | Ordered the custom wood boards for the drawer slide. |
 | **May 25** | Installation | Completed the physical installation of the CNC drawer in the van. |
 
+### CNC Drawer Fabrication & Installation Journey
+
+In Chengdu, I focused on a new design for the CNC drawer, ensuring we had updated, accurate measurements. Once the CAD design was completed, we ordered the custom wood panels to be cut and bought heavy-duty drawer slides from Taobao.
+
+My original plan was to assemble and install everything myself. The ideal installation logic involved drilling two types of holes: a smaller pilot hole, followed by a larger counterbore hole that didn't go all the way through, just deep enough to embed the screw heads so they wouldn't stick out and interfere with the sliding mechanisms. However, the makerspace didn't have the necessary tools: we only had one size of drill bit and a limited supply of screws. Short on time, we decided to pack all the disassembled components onto the van and find a local "shifu" (master craftsman) later to help with the installation.
+
+When we eventually arrived in Ya'an, Feng Lei found a highly skilled shifu who managed to finish the entire assembly in about an hour and a half. To my surprise, he chose to use a nail gun for much of the assembly. I wasn't very keen on this approach because I wanted everything to be as sturdy as possible to support the heavy CNC machine. However, he fired probably around 100 nails into the wood and reinforced the structure with standard screws, so it turned out surprisingly solid. While there were a few details I would have done differently, at the end of the day, it works perfectly. Most importantly, the CNC is no longer just sitting on the floor making it hard to reach!
+
 ## Hardware Showcase Integration
 
 During the site visits, we needed dedicated display solutions for the Seeed Studio hardware brought along in the van.
