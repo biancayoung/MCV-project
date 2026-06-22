@@ -10,5 +10,7 @@ It was a lot of 麻烦 (trouble), just really inconvenient and probably not grea
 
 To solve this, I found a 3D printable file on MakerWorld for custom holders designed to secure the A1 Mini directly to the tabletop. Having the printer securely mounted in one permanent place was incredibly important for both ease of use during demonstrations and the safety of the hardware while driving.
 
+The second step to securing the printer setup was addressing the AMS Lite. After I returned to Chengdu from my trip to Batang, I searched online but couldn't find a suitable holder for the AMS unit. I decided to just design one myself. I downloaded a reference 3D model of the AMS Lite that I found online, and then used Fusion 360 to build a custom, secure holder around it.
+
 ---
 [Timeline](../TIMELINE.md) | [Stage 3: Assembly](STAGE_3.md) | [Stage 4: Chengdu](STAGE_4.md) | [Resources Log](../RESEARCH_LOG.md)
