@@ -37,7 +37,7 @@ During the site visits, we needed dedicated display solutions for the Seeed Stud
 
 | Task Focus | Technical Execution |
 | :--- | :--- |
-| **Hardware Mounts** | Designed, 3D printed, and installed custom holders for the SenseCAP products and Grove sensors onto the van walls (May 21 - May 22). |
+| **Hardware Mounts** | Designed, 3D printed, and installed custom holders for the SenseCAP products and Grove sensors onto the van walls (May 21 to May 22). |
 | **reCamera Demo** | Set up a live heatmap demonstration using the reCamera. The demo was run locally off one of the reComputer units installed inside the van. |
 | **Reachy Mini** | Haonan focused on setting up and maintaining the Reachy Mini robot onboard. |
 

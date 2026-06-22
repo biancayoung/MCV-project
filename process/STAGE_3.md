@@ -25,7 +25,7 @@ With the digital designs finalized, we entered the final, most demanding phase o
 
 ## April 20th: Heading to Huizhou
 
-To carry out the work, we drove the van to a specialized car modification garage in a nearby city, **Huizhou**. This was the same garage where the van’s initial modifications had been made before I joined the project - such as installing the auxiliary AC unit, carrying out the hidden electrical wiring, and replacing the front seats with 360-degree swivel mounts. 
+To carry out the work, we drove the van to a specialized car modification garage in a nearby city, **Huizhou**. This was the same garage where the van’s initial modifications had been made before I joined the project, such as installing the auxiliary AC unit, carrying out the hidden electrical wiring, and replacing the front seats with 360-degree swivel mounts. 
 
 We returned to this garage because the van was scheduled for further heavy modifications at the same time:
 *   Installing a custom roof rack
@@ -39,7 +39,7 @@ While the garage crew worked on these exterior and structural vehicle upgrades, 
 ## Frame Assembly
 
 ### 1. Extrusion Sorting
-When we first unwrapped the aluminum extrusions, my immediate reaction was one of pure overwhelm. There were dozens of profiles stacked together. They looked almost identical in size, yet featured tiny, crucial variations - such as different hole orientations, counterbores, and slot placements. 
+When we first unwrapped the aluminum extrusions, my immediate reaction was one of pure overwhelm. There were dozens of profiles stacked together. They looked almost identical in size, yet featured tiny, crucial variations, such as different hole orientations, counterbores, and slot placements. 
 
 Having never assembled a complex extruded aluminum structure before, the learning curve was steep. 
 

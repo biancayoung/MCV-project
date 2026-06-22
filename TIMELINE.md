@@ -22,21 +22,21 @@ Project Navigation:
 ## PHASE TWO
 | Date | Milestone | Status |
 | :--- | :--- | :--- |
-| **MAY 17** | Research and buy heavy-duty drawer slides. | Done |
-| **MAY 21** | **CNC drawer design:** Finish the design for the CNC drawer. | Done |
-| **MAY 22** | Order the wood boards for the drawer slide.  | Done |
-| **MAY 25**| Finished installing the CNC drawer.  | Done |
+| **May 17** | Research and buy heavy-duty drawer slides. | Done |
+| **May 21** | **CNC drawer design:** Finish the design for the CNC drawer. | Done |
+| **May 22** | Order the wood boards for the drawer slide.  | Done |
+| **May 25**| Finished installing the CNC drawer.  | Done |
 
 ## Design Improvements and additions
 | Date | Milestone | Status |
 | :--- | :--- | :--- |
-| **MAY 21** | Plan and discuss the placement for some of the Seeed hardware to showcase. | Done |
-| **MAY 22** | Design, 3D print, and install the custom holders for the Seeed hardware onto the van. | Done |
+| **May 21** | Plan and discuss the placement for some of the Seeed hardware to showcase. | Done |
+| **May 22** | Design, 3D print, and install the custom holders for the Seeed hardware onto the van. | Done |
 
 ## System Setup
 | Date | Milestone | Status |
 | :--- | :--- | :--- |
-| **MAY 17** | **Set up the reCamera demo:** Set up a reCamera live heatmap demo in the van. | Done |
+| **May 17** | **Set up the reCamera demo:** Set up a reCamera live heatmap demo in the van. | Done |
 
 ---
 
@@ -45,7 +45,7 @@ Project Navigation:
 ### April 2: Kick-off
 My involvement in the MCV Project officially began on April 2nd, 2026, when I was first introduced to the Geely Farizon Super Van. The timeline was exceptionally tight, with a fixed departure date of April 22nd, leaving a 20-day window for both design and implementation. At the start of this phase, the van was still undergoing license plate registration and inspection, which meant no physical modifications could be made to the vehicle. 
 
-This limitation presented our greatest challenge: the entire interior had to be designed as a complete, finalized digital system before any physical assembly began. Unlike typical van conversions that span months of iterative building, this project relied entirely on high-precision digital planning and pre-fabrication. It’s also worth mentioning that our team - consisting of 冯老师 (Feng Lei), Spencer Yan, and myself - had no prior experience converting a van or building a mobile makerspace. 
+This limitation presented our greatest challenge: the entire interior had to be designed as a complete, finalized digital system before any physical assembly began. Unlike typical van conversions that span months of iterative building, this project relied entirely on high-precision digital planning and pre-fabrication. It’s also worth mentioning that our team, consisting of 冯老师 (Feng Lei), Spencer Yan, and myself, had no prior experience converting a van or building a mobile makerspace. 
 
 ### April 8: 3D Scan Setup
 I began working with the 3D scan of the van's interior provided by 冯老师. This was my first time working with the interior of a vehicle and using a mesh as a reference at this scale. I researched established workflows and utilized the "Create Mesh Section Sketch" tool in Fusion 360. By taking horizontal and vertical slices of the scan, I created a "Digital Twin" envelope that ensured our structure wouldn't interfere with the physical van's ribs or curves.
@@ -53,13 +53,13 @@ I began working with the 3D scan of the van's interior provided by 冯老师. Th
 ### April 10-14: Iterative Design
 After a basic block mockup, I moved to **Version 1**, recreating 冯老师’s MayCAD assembly in Fusion 360 piece-by-piece to allow for custom wood joinery design. Initially, we planned for a large 3D printer on the floor, but I quickly realized the ergonomics were terrible for cable access and filament feeding. 
 
-The shift to **Version 2** was triggered by the addition of a **Maker Z1**. To accommodate its 30kg weight and 84cm lid height, I swapped the frame widths (making the left side wider) and designed a lifting counter space with heavy-duty drawer slides for maintenance access. Due to time, we replaced custom wood walls with acrylic sheets - a necessary pivot to meet the deadline. The CNC drawer was also put on pause and was left for later to be completed.
+The shift to **Version 2** was triggered by the addition of a **Maker Z1**. To accommodate its 30kg weight and 84cm lid height, I swapped the frame widths (making the left side wider) and designed a lifting counter space with heavy-duty drawer slides for maintenance access. Due to time, we replaced custom wood walls with acrylic sheets (a necessary pivot to meet the deadline). The CNC drawer was also put on pause and was left for later to be completed.
 
 ### April 16-17: BOM Finalization
 Finalizing the BOM was a high-stress sprint. The manufacturer only accepted whole numbers for dimensions, forcing us to round up our 0.5mm offsets. 冯老师 and I also had to manually convert the Fusion 360 frame back into MayCAD to generate the automated BOM for screw hole placements. Orders were sent on the 16th, and the van was successfully registered on the 17th.
 
 ### April 20: Frame Assembly
-The parts arrived on April 20th, and we immediately headed to a garage in Huizhou. The assembly was far more complex than imagined - 60+ nearly identical components mixed together. We spent hours sorting by size and figuring out the specific tightening sequence and hole orientations. We worked until 11:20 PM to finish the primary frames, and then worked the next morning until the afternoon to complete the process. We also had to make some on-site modifications to the aluminum structure when it was being installed into the van, as there were some extruded parts of the van we didn't notice until later.
+The parts arrived on April 20th, and we immediately headed to a garage in Huizhou. The assembly was far more complex than imagined: 60+ nearly identical components mixed together. We spent hours sorting by size and figuring out the specific tightening sequence and hole orientations. We worked until 11:20 PM to finish the primary frames, and then worked the next morning until the afternoon to complete the process. We also had to make some on-site modifications to the aluminum structure when it was being installed into the van, as there were some extruded parts of the van we didn't notice until later.
 
 ### April 21: Installation & Tuning
 On the 21st, we moved the frames into the van and secured them to the chassis. Back at the Seeed Studio office, those rounded-up 0.5mm offsets came back to bite us; some boards wouldn't fit. 冯老师 and the team took turns with a metal-cutting circular saw to shave down the edges. Once the panels were finally secured, I could step back as the rest of the team took over the electronics and demo setup.
@@ -73,7 +73,7 @@ After the van took off, I stayed back at Seeed's Shenzhen office to complete oth
 ### May 11th to 18th: Chengdu
 I flew from Shenzhen Bao'an International Airport to Chengdu Shuangliu International Airport on the 11th, arriving in the evening at around 8:00 PM. I then hailed a DiDi to the dorms and settled in. The next morning, I had breakfast with Spencer, the tech lead onboard the van. We ate Dan Dan noodles (担担面, Dan Dan Mian). It was my first time trying this, and although it is considered not so spicy compared to other foods in Chengdu, I still struggled a bit with it. Hopefully, by the end of this trip, my spice tolerance will be much higher. We then headed to the maker space to meet with the team. 
 
-For the following days in Chengdu we worked in the maker space. I focused on improving the van, redesigning and making the CNC drawer, and we also had to find some places to display the hardware we brought along with us in the van, such as the SenseCAP products, reCamera, and Grove sensors.
+For the following days in Chengdu, we worked in the maker space. I focused on improving the van, redesigning and making the CNC drawer, and we also had to find some places to display the hardware we brought along with us in the van, such as the SenseCAP products, reCamera, and Grove sensors.
 
 Simultaneously, the design work and improvements were sometimes made on the road. During our stay in Chengdu, we drove the van to schools and science museums on certain days. On the days we were on-site, not a lot of design work was done. Instead, I focused on helping set up the van for the site visits and also setting up the reCamera. This was done whenever I was inside the van, as I had the reCamera set up and running on one of the reComputers inside the van.
 
@@ -88,7 +88,7 @@ We spent the day exploring and went on a hike up the mountain at the Tangjiahe N
 ### May 23rd to 28th: Ya'an and the Start of Route 318
 We visited the Giant Panda breeding and research base in Ya'an and took some time for sightseeing. Following this, we visited the Sichuan Ya'an Middle School for a special event celebrating Eric Pan's return to his alma mater, where we participated in engaging discussions and cultural exchanges with the students. 
 
-On the 24th, I rushed to install the CNC drawer. Back at the makerspace in Chengdu, we didn't have the necessary tools and materials for the installation, so I had to pack the drawer components, boards, and hardware onto the van. Once we were in Ya'an, we found a local "shifu" (master craftsman) to help. In his small workshop, he used a nail gun and screws to assemble everything. While I wasn't fully on board with the use of a nail gun, beggars can't be choosers, and the entire installation only took about an hour and a half.
+On the 24th, I rushed to install the CNC drawer. Back at the makerspace in Chengdu, we didn't have the necessary tools and materials for the installation, so I had to pack the drawer components, boards, and hardware onto the van. Once we were in Ya'an, we found a local "shifu" (master craftsman) to help. In his small workshop, he used a nail gun and screws to assemble everything. While I wasn't fully on board with the use of a nail gun, we were short on options and time, and the entire installation only took about an hour and a half.
 
 Afterward, we officially set off on the road, marking the beginning of our journey along the famous China National Highway 318 (Route 318). At this point, our traveling team had changed and expanded. While Xiajie (Xiaxia) and Yezi stayed behind in Chengdu, the core crew moving forward consisted of Feng Lei (team lead), Haonan, and myself. We were also joined by 邝钟伦 (Allen), who took on the role of our new tech lead, as well as Eric Pan, founder and CEO of Seeed Studio, his father, and Fanxiang, who traveled alongside us in a separate vehicle. For the trip along Route 318, I traveled on board this second vehicle.
 
@@ -112,4 +112,4 @@ A massive thank you to Seeed Studio, Chaihuo Maker Space, and the entire team wh
 
 ---
 **Project Navigation:**  
-[Index page](INDEX.md) | [Timeline](TIMELINE.md) | [Stage 1: Assessment](process/STAGE_1.md) | [Stage 2: Design](process/STAGE_2.md) | [Stage 3: Assembly](process/STAGE_3.md) | [Resources](RESEARCH_LOG.md)
+[Index page](INDEX.md) | [Timeline](TIMELINE.md) | [Stage 1: Assessment](process/STAGE_1.md) | [Stage 2: Design](process/STAGE_2.md) | [Stage 3: Assembly](process/STAGE_3.md) | [Stage 4: Chengdu](process/STAGE_4.md) | [Stage 5: Final](process/STAGE_5.md) | [Resources](RESEARCH_LOG.md)

@@ -1,4 +1,4 @@
-﻿[Timeline](../TIMELINE.md) | [Stage 1: Assessment](STAGE_1.md) | [Stage 2: Design](STAGE_2.md) | [Stage 3: Assembly](STAGE_3.md) | [Resources Log](../RESEARCH_LOG.md)
+[Timeline](../TIMELINE.md) | [Stage 1: Assessment](STAGE_1.md) | [Stage 2: Design](STAGE_2.md) | [Stage 3: Assembly](STAGE_3.md) | [Stage 4: Chengdu](STAGE_4.md) | [Stage 5: Final](STAGE_5.md) | [Resources Log](../RESEARCH_LOG.md)
 
 ---
 
@@ -61,4 +61,4 @@ The van interior features non-linear walls and structural ribs. Precise digital 
 The research conducted in this phase led directly to the creation of the [Research & Resources Log](../RESEARCH_LOG.md), which tracks the specific engineering guides I used to build the next iteration of the frame. Once the physical assessment was complete, we transitioned into the [Stage 2: Digital Design](STAGE_2.md) phase.
 
 ---
-[Timeline](../TIMELINE.md) | [Stage 1: Assessment](STAGE_1.md) | [Stage 2: Design](STAGE_2.md) | [Stage 3: Assembly](STAGE_3.md) | [Resources Log](../RESEARCH_LOG.md)
+[Timeline](../TIMELINE.md) | [Stage 1: Assessment](STAGE_1.md) | [Stage 2: Design](STAGE_2.md) | [Stage 3: Assembly](STAGE_3.md) | [Stage 4: Chengdu](STAGE_4.md) | [Stage 5: Final](STAGE_5.md) | [Resources Log](../RESEARCH_LOG.md)
